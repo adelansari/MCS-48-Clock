@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "world clock")(type "KiCad")(uri "${KIPRJMOD}/world clock.kicad_sym")(options "")(descr ""))
+)
